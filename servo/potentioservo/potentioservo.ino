@@ -1,3 +1,12 @@
+/* ----------------------------------------------------------  
+ Used in video Gamebuino 02 - Servomoteurs
+ https://youtu.be/qcovLDaD41o
+
+ Control servo position with a potentiometer
+ ----------------------------------------------------------
+ Author: TitiMoby
+ Date: May 2019
+---------------------------------------------------------- */
 #include <Gamebuino-Meta.h>
 #include <Servo.h>
  

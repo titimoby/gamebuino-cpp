@@ -1,7 +1,8 @@
-/* ----------------------------------------------------------
-  Read analog value on aport
- Used in video Gamebuino 01 - Servomoteurs
- https://youtu.be/NQbfONUid2U
+/* ----------------------------------------------------------  
+ Used in video Gamebuino 02 - Servomoteurs
+ https://youtu.be/qcovLDaD41o
+
+ Control servo position with a potentiometer or Gamebuino buttons
  ----------------------------------------------------------
  Author: TitiMoby
  Date: May 2019

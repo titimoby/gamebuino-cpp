@@ -1,5 +1,5 @@
 /* ----------------------------------------------------------
-  Read analog value on aport
+  Read analog value on a port
  Used in video Gamebuino 01 - Découverte de la console et premiers montages électroniques
  https://youtu.be/NQbfONUid2U
  ----------------------------------------------------------
